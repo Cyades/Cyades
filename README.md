@@ -21,13 +21,17 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="80">
