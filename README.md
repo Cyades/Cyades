@@ -6,7 +6,7 @@
             <li>🔭 I'm currently figuring out what to specialize in</li>
             <li>👨‍🎓 I'm learning Rust at the moment</li>
             <li>💬 Ask me about anything you want</li>
-            <li>📫 How to reach me: malvin.scafi@ui.ac.id</li>
+            <li>📫 How to reach me: <a href="mailto:malvin.scafi@ui.ac.id">malvin.scafi@ui.ac.id</a></li>
         </ul>
     </h3>
     <p align="left">
