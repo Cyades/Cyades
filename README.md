@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @Cyades
-- 👀 I’m interested in Sleeping
-- 🌱 I’m currently learning Sleeping Methods
-- 💞️ I’m looking to collaborate on Sleeping Project
-- 📫 How to reach me "dont please i need to sleep"
-- 😄 Pronouns: Sleeper
-- ⚡ Fun fact: I want to sleep
-
-<!---
-Cyades/Cyades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<header align="left">
+    <h1 align="left">Hi Everyone (๑˃̵　ᴗ　˂̵)ᕤ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <img id='gif' align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdyaXd0bGRhNHQ1MmJqcDVwNnp6MXVieWYwNHhud3FhbXBzbTY5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/THqNewbUlX7lVZF60A/giphy.gif" width="480" height="270">
+    <h3 align="left">
+        <ul>
+            <li>🔭 I'm currently figuring out what to specialize in</li>
+            <li>👨‍🎓 I'm learning Rust at the moment</li>
+            <li>💬 Ask me about anything you want</li>
+            <li>📫 How to reach me: malvin.scafi@ui.ac.id</li>
+        </ul>
+    </h3>
+    <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=cyades&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views">
+    </p>
+</header>
+<br><br><br><br> 
+<hr>
+<div align="center">
+    <h2 align="center">Used Technologies</h2>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80">
+    </div>
+    <h2 align="center">Used IDE's</h2>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+    </div>
+</div>
+<hr>
+<footer align="center">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=cyades&include_all_commits=true&show_icons=true&theme=radical" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyades&layout=compact&hide=css&theme=radical" alt="Top Languages" height="250">
+    </p>
+</footer>
