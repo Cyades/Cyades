@@ -7,6 +7,7 @@
             <li>👨‍🎓 I'm learning Rust at the moment</li>
             <li>💬 Ask me about anything you want</li>
             <li>📫 How to reach me: <a href="mailto:scafimalvin@gmail.com">scafimalvin@gmail.com</a></li>
+            <li>🌐 My Portfolio <a href="https://malvinscafi.vercel.app/">https://malvinscafi.vercel.app/</a></li>
         </ul>
     </h3>
     <p align="left">
