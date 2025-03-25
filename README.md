@@ -1,6 +1,6 @@
 <header align="left">
     <h1 align="left">Hi Everyone (๑˃̵　ᴗ　˂̵)ᕤ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <img id='gif' align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdyaXd0bGRhNHQ1MmJqcDVwNnp6MXVieWYwNHhud3FhbXBzbTY5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/THqNewbUlX7lVZF60A/giphy.gif" width="360" height="202.5">
+    <img id='gif' align="right" src="https://media1.tenor.com/m/JHLf1JXXb5IAAAAC/kaela-kaela-3d.gif" width="360" height="202.5">
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently figuring out what to specialize in</li>
